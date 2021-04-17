@@ -1,0 +1,7 @@
+.app { 
+  display: flex;
+  height: 100vh;
+  flex-direction: column; 
+}
+.controlSection { flex: 0 4rem; }
+.displaySection { flex: 1; }

@@ -1,0 +1,8 @@
+.controls {
+  padding: 1rem;
+}
+
+.preservedEntry {
+  font-family: monospace;
+  white-space: pre;
+}
